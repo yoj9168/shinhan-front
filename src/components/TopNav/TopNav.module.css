@@ -1,0 +1,37 @@
+.wrap{
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 65px;
+    padding: 0 16px;
+    border-bottom: solid 1px #E5E5E5;
+}
+.rightContainer{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.roundButton{
+    border-radius: 20px;
+    background: linear-gradient(90deg, #0094FF 0%, #0046FF 114.29%);
+    padding: 10px 14px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    cursor: pointer;
+}
+
+.shareButton{
+    width: 44px;
+    height: 44px;
+    background: #EAECEF; 
+    border-radius: 22.50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
