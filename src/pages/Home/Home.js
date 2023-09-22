@@ -95,7 +95,7 @@ const Home = () => {
 
           <div className={`${styles.linkContentContainer} ${openAccordion1 ? styles.itemOpen : ""}`}>
             <LinkListItem
-              subText={"수수료+환전우대 혜택까지"}
+              subText={"수수료+환전우대 혜택까지!!!"}
               text={"해외주식"}
               imageUrl={EventLogo1}
               linkUrl={"https://digitalshinhansec.com/global"}
